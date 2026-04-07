@@ -1,0 +1,10 @@
+build/
+Binaries/
+*.o
+*.out
+*.a
+*.so
+x86_64-debug/
+.metadata/
+.settings/
+Includes/
