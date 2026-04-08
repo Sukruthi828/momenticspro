@@ -4,7 +4,9 @@
 
 \## 📌 Project Overview
 
-This project is developed using QNX Momentics IDE. It demonstrates basic embedded system programming using C.
+This project is developed using \*\*QNX Momentics IDE\*\*.  
+
+It demonstrates basic embedded system programming using C.
 
 
 
@@ -20,6 +22,14 @@ This project is developed using QNX Momentics IDE. It demonstrates basic embedde
 
 \## 📂 Project Structure
 
+test/
+
+├── src/
+
+├── Makefile
+
+├── README.md
+
 
 
 \## ▶️ How to Run
@@ -34,11 +44,5 @@ This project is developed using QNX Momentics IDE. It demonstrates basic embedde
 
 \## 📖 Description
 
-This project contains implementation of basic functionality in an embedded environment.
-
-
-
-\## 👨‍💻 Author
-
-Your Name
+Basic embedded system project using QNX RTOS.
 
